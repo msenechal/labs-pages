@@ -111,7 +111,7 @@ The following projects were successfully developed, incubated, and validated wit
 
 === link:https://neo4j.com/docs/operations-manual/current/kubernetes/[Neo4j-Helm^]
 
-xref:neo4j-helm:index.adoc[Neo4j-Helm] saw great adoption and provided important learnings and insights for the link:/docs/operations-manual/current/kubernetes/[official Kubernetes Support for Neo4j^].
+Neo4j-Helm saw great adoption and provided important learnings and insights for the link:/docs/operations-manual/current/kubernetes/[official Kubernetes Support for Neo4j^].
 Using the Helm package manager for Kubernetes, makes it simple to specify advanced configurations of Neo4j, both standalone and cluster, and run them with Kubernetes across many cloud platforms.
 
 
